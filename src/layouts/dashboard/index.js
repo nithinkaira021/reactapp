@@ -60,7 +60,7 @@ function Dashboard() {
           </Grid>
           <Grid item xs={12} md={6} lg={3}>
             <MDBox mb={1.5}>
-              <ComplexStatisticsCard
+              {/* <ComplexStatisticsCard
                 icon="leaderboard"
                 title="Today's Users"
                 count="2,300"
@@ -69,7 +69,7 @@ function Dashboard() {
                   amount: "+3%",
                   label: "than last month",
                 }}
-              />
+              /> */}
             </MDBox>
           </Grid>
           <Grid item xs={12} md={6} lg={3}>
